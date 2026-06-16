@@ -2,7 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7&text=Kamal%20Solanki&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Python%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20IIT%20Madras%20BS%20Student&descAlignY=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=950&lines=AI+%26+Python+Developer;IIT+Madras+BS+Student;Open+Source+Contributor;Building+Real-World+AI+Solutions;Generative+AI+Enthusiast;Hackathon+Builder"/>
+<h2 align="center">
+AI Engineer | Python Developer | IIT Madras BS Student
+</h2>
+
+<p align="center">
+Building AI-Powered Applications • Open Source Contributor • Generative AI
+</p>
 
 <br/>
 
