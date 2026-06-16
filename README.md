@@ -459,7 +459,7 @@ Actively participating in innovation challenges, hackathons, and problem-solving
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kamalsolanki143&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kamalsolanki143&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </div>
 
@@ -487,7 +487,7 @@ Actively participating in innovation challenges, hackathons, and problem-solving
 
 # <div align="center">Current Focus</div>
 
-yaml
+```yaml
 Learning:
   - Advanced Python Development
   - FastAPI & Backend Engineering
@@ -515,7 +515,7 @@ Open_To:
   - Open Source Collaborations
   - Hackathons & Innovation Challenges
   - Freelance Technical Projects
-
+```
 
 ---
 
