@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7&text=Kamal%20Solanki&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Python%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20IIT%20Madras%20BS%20Student&descAlignY=60&animation=fadeIn"/>
@@ -257,9 +256,6 @@ A Python-based automation utility that automatically organizes files into struct
 
 </details>
 
----
-```
-```markdown
 # <div align="center">Experience</div>
 
 ## Open Source Contributor | GirlScript Summer of Code (GSSoC) 2026
@@ -468,8 +464,7 @@ Actively participating in innovation challenges, hackathons, and problem-solving
 </div>
 
 ---
-```
-````markdown id="l9qv4t"
+
 # <div align="center">Contribution Activity</div>
 
 <div align="center">
@@ -492,7 +487,7 @@ Actively participating in innovation challenges, hackathons, and problem-solving
 
 # <div align="center">Current Focus</div>
 
-```yaml
+yaml
 Learning:
   - Advanced Python Development
   - FastAPI & Backend Engineering
@@ -520,7 +515,7 @@ Open_To:
   - Open Source Collaborations
   - Hackathons & Innovation Challenges
   - Freelance Technical Projects
-````
+
 
 ---
 
@@ -566,5 +561,3 @@ Open_To:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7"/>
 
-```
-```
