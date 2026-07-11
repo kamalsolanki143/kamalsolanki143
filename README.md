@@ -482,39 +482,85 @@ Actively participating in innovation challenges, hackathons, and problem-solving
 
 ---
 
-# <div align="center">Current Focus</div>
+<h2 align="center">🎯 Current Focus</h2>
 
-```yaml
-Learning:
-  - Advanced Python Development
-  - FastAPI & Backend Engineering
-  - Generative AI Systems
-  - Agentic AI Workflows
-  - Software Architecture
+<table>
+<tr>
 
-Building:
-  - SmartApply AI
-  - Pathology Report Explainer Bot
-  - Smart Road Safety Solution
-  - FlowZint AI Project
-  - Open Source Contributions
+<td width="50%" valign="top">
 
-Exploring:
-  - Large Language Models
-  - AI Automation Systems
-  - Multi-Agent AI Applications
-  - Product Engineering
-  - Scalable Backend Systems
+### 📚 Currently Learning
 
-Open_To:
-  - AI Engineering Opportunities
-  - Python Development Roles
-  - Open Source Collaborations
-  - Hackathons & Innovation Challenges
-  - Freelance Technical Projects
-```
+- 🐍 Advanced Python Development
+- ⚡ FastAPI & Backend APIs
+- 🤖 Agentic AI & AI Agents
+- 🧠 Large Language Models (LLMs)
+- 🔄 Retrieval-Augmented Generation (RAG)
+- ☁️ Cloud Deployment & DevOps
+- 🗄️ SQL & Database Design
 
----
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Currently Building
+
+- 🔒 SmartApply AI (Resume Analyzer)
+- 🔒 Pathology Report Explainer Bot
+- 🔒 TrustBridge AI (FinTech Platform)
+- 🔒 Smart Road Safety Solution
+- 🔒 FlowZint AI Project
+- 🌍 Open Source Contributions
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### 🔬 Exploring
+
+- 🤖 Multi-Agent AI Systems
+- 💬 Prompt Engineering
+- 🛠️ MCP & AI Tool Integrations
+- 📊 AI + Data Analytics
+- ⚙️ Backend Architecture
+- 🚀 Scalable AI Applications
+
+</td>
+
+<td valign="top">
+
+### 🤝 Open To
+
+- 💼 AI / ML Internships
+- 🐍 Python Developer Roles
+- 🤖 Generative AI Projects
+- 🌍 Open Source Collaborations
+- 🚀 Hackathons & Innovation Challenges
+- 🎤 Tech Communities & Networking
+- 🤝 Startup Collaborations
+
+</td>
+
+</tr>
+</table>
+
+## 🎯 2026 Mission
+
+✅ Build 10+ AI Projects
+
+✅ Win National Hackathons
+
+✅ Become a Google Developer Expert (Long-Term Goal)
+
+✅ Contribute to Major Open Source Projects
+
+✅ Master Agentic AI & Multi-Agent Systems
+
+✅ Land an AI/ML Internship at a Top Tech Company
 
 # <div align="center">Connect</div>
 
