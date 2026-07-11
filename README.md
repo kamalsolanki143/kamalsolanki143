@@ -460,7 +460,7 @@ Actively participating in innovation challenges, hackathons, and problem-solving
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=kamalsolanki143&theme=tokyonight&no-frame=true&margin-w=15"/>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=kamalsolanki143&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
@@ -470,6 +470,7 @@ Actively participating in innovation challenges, hackathons, and problem-solving
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalsolanki143&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=7C3AED&point=8B5CF6"/>
+[![Kamal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kamalsolanki143&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -479,8 +480,7 @@ Actively participating in innovation challenges, hackathons, and problem-solving
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---
