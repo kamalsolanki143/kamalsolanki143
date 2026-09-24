@@ -168,23 +168,34 @@ Converts RFQ documents into structured quotations using Gemini, inventory valida
 
 <div align="center">
 
+<div align="center">
+
 ## 🧠 STACK
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,nodejs,flask,fastapi,mongodb,firebase,supabase,git,github,vscode,vercel,figma&perline=9" alt="Technology stack"/>
+### 🐍 Programming
+
+<img src="https://skillicons.dev/icons?i=python&perline=1" width="70" alt="Python"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM%20Applications-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-312E81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini%20API-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI%20API-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
+### ☁️ Platforms & Tools
+
+<img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,vscode,vercel,figma&perline=7" alt="Platforms and tools"/>
+
+<br/><br/>
+
+### 🤖 AI & Data
+
+<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-6366F1?style=for-the-badge" alt="LLM Applications"/>
+<img src="https://img.shields.io/badge/AI%20Agents-4F46E5?style=for-the-badge" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/RAG-312E81?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/Gemini%20API-2563EB?style=for-the-badge" alt="Gemini API"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-111827?style=for-the-badge" alt="OpenAI API"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge" alt="NumPy"/>
 
 </div>
-
 ---
 
 <div align="center">
