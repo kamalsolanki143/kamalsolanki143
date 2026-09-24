@@ -1,41 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 520" width="1280" height="520" role="img" aria-label="Kamal Solanki - AI Engineer">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B16"/><stop offset=".5" stop-color="#111A36"/><stop offset="1" stop-color="#25104B"/></linearGradient>
-  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#8B5CF6;#22D3EE" dur="6s" repeatCount="indefinite"/></stop><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
-  <radialGradient id="orb"><stop stop-color="#8B5CF6" stop-opacity=".28"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#94A3B8" stroke-opacity=".06"/></pattern>
-  <clipPath id="avatar"><circle cx="1038" cy="210" r="108"/></clipPath>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B16"/><stop offset=".5" stop-color="#111A36"/><stop offset="1" stop-color="#25104B"/></linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#8B5CF6;#22D3EE" dur="6s" repeatCount="indefinite"/></stop><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+<radialGradient id="orb"><stop stop-color="#8B5CF6" stop-opacity=".28"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#94A3B8" stroke-opacity=".06"/></pattern>
 </defs>
-<rect width="1280" height="520" rx="26" fill="url(#bg)"/>
-<rect width="1280" height="520" rx="26" fill="url(#grid)"/>
+<rect width="1280" height="520" rx="26" fill="url(#bg)"/><rect width="1280" height="520" rx="26" fill="url(#grid)"/>
 <circle cx="140" cy="90" r="260" fill="url(#orb)"><animate attributeName="r" values="240;285;240" dur="7s" repeatCount="indefinite"/></circle>
 <circle cx="1120" cy="420" r="300" fill="url(#orb)"><animate attributeName="r" values="285;330;285" dur="8s" repeatCount="indefinite"/></circle>
 <rect x="1" y="1" width="1278" height="518" rx="26" fill="none" stroke="url(#g)" stroke-opacity=".65"/>
 <g font-family="Consolas,monospace">
-  <text x="70" y="74" font-size="16" fill="#67E8F9">kamal@builder</text><text x="215" y="74" font-size="16" fill="#64748B">:</text><text x="228" y="74" font-size="16" fill="#A78BFA">~</text><text x="245" y="74" font-size="16" fill="#64748B">$</text><text x="262" y="74" font-size="16" fill="#E2E8F0">whoami</text>
-  <text x="70" y="126" font-size="58" font-weight="800" fill="url(#g)">Kamal Solanki</text>
-  <text x="74" y="170" font-size="21" fill="#CBD5E1">AI Engineer  •  Python Developer  •  Data Science</text>
-  <text x="74" y="204" font-size="17" fill="#94A3B8">IIT Madras  •  Open Source  •  Hackathons  •  Product Builder</text>
-  <g font-size="15" fill="#CBD5E1">
-    <rect x="72" y="245" width="470" height="150" rx="18" fill="#0B1120" stroke="#334155"/>
-    <text x="96" y="276" fill="#22D3EE">$ build --profile kamal</text>
-    <text x="96" y="308">→ AI products</text>
-    <text x="96" y="333">→ LLM &amp; multi-agent workflows</text>
-    <text x="96" y="358">→ Python / FastAPI backends</text>
-    <text x="96" y="383">→ Real-world problem solving</text>
-  </g>
-  <text x="72" y="450" font-size="17" fill="#A78BFA">Problem → Design → Build → Ship → Iterate</text>
+<text x="70" y="70" font-size="16" fill="#67E8F9">kamal@builder</text><text x="215" y="70" font-size="16" fill="#64748B">:</text><text x="228" y="70" font-size="16" fill="#A78BFA">~</text><text x="245" y="70" font-size="16" fill="#64748B">$</text><text x="262" y="70" font-size="16" fill="#E2E8F0">whoami</text>
+<text x="70" y="126" font-size="58" font-weight="800" fill="url(#g)">Kamal Solanki</text>
+<text x="74" y="168" font-size="21" fill="#CBD5E1">AI Engineer  •  Python Developer  •  Data Science</text>
+<text x="74" y="202" font-size="17" fill="#94A3B8">IIT Madras  •  Open Source  •  Hackathons  •  Product Builder</text>
+<rect x="72" y="244" width="490" height="152" rx="18" fill="#0B1120" stroke="#334155"/>
+<text x="96" y="276" font-size="15" fill="#22D3EE">$ build --profile kamal</text>
+<text x="96" y="308" font-size="15" fill="#CBD5E1">→ AI products</text>
+<text x="96" y="334" font-size="15" fill="#CBD5E1">→ LLM &amp; multi-agent workflows</text>
+<text x="96" y="360" font-size="15" fill="#CBD5E1">→ Python / FastAPI backends</text>
+<text x="96" y="386" font-size="15" fill="#CBD5E1">→ Real-world problem solving</text>
+<text x="72" y="450" font-size="17" fill="#A78BFA">Problem → Design → Build → Ship → Iterate</text>
 </g>
-<circle cx="1038" cy="210" r="120" fill="#0B1020" stroke="#8B5CF6" stroke-width="3" filter="url(#glow)"/>
-<g clip-path="url(#avatar)"><image href="https://avatars.githubusercontent.com/u/213414495?v=4" x="930" y="102" width="216" height="216" preserveAspectRatio="xMidYMid slice"/></g>
-<circle cx="1038" cy="210" r="108" fill="none" stroke="#22D3EE" stroke-opacity=".35"/>
-<g>
-  <circle cx="1128" cy="120" r="5" fill="#22D3EE"><animate attributeName="cy" values="120;112;120" dur="2.6s" repeatCount="indefinite"/></circle>
-  <circle cx="1192" cy="230" r="4" fill="#EC4899"><animate attributeName="cx" values="1192;1180;1192" dur="3.1s" repeatCount="indefinite"/></circle>
-  <circle cx="910" cy="350" r="4" fill="#A78BFA"><animate attributeName="cy" values="350;340;350" dur="2.2s" repeatCount="indefinite"/></circle>
+<g transform="translate(885,72)">
+<circle cx="155" cy="132" r="124" fill="#09111F" stroke="url(#g)" stroke-width="3" filter="url(#glow)"/>
+<circle cx="155" cy="132" r="91" fill="#111827" stroke="#334155"/>
+<text x="155" y="122" text-anchor="middle" font-family="Inter,Arial" font-size="54" font-weight="900" fill="url(#g)">KS</text>
+<text x="155" y="153" text-anchor="middle" font-family="Consolas,monospace" font-size="13" fill="#CBD5E1">AI / DATA / SOFTWARE</text>
+<circle cx="258" cy="45" r="5" fill="#22D3EE"><animate attributeName="cy" values="45;37;45" dur="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="67" cy="230" r="4" fill="#EC4899"><animate attributeName="cy" values="230;220;230" dur="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="285" cy="176" r="4" fill="#A78BFA"><animate attributeName="cx" values="285;275;285" dur="3.1s" repeatCount="indefinite"/></circle>
+<text x="155" y="316" text-anchor="middle" font-family="Consolas,monospace" font-size="17" fill="#E2E8F0">Building useful software with AI ⚡</text>
+<rect x="-2" y="350" width="314" height="42" rx="21" fill="#111827" stroke="#334155"/>
+<text x="155" y="376" text-anchor="middle" font-family="Consolas,monospace" font-size="13" fill="#94A3B8">open to collaborations &amp; opportunities</text>
 </g>
-<text x="1038" y="365" text-anchor="middle" font-family="Consolas,monospace" font-size="18" fill="#E2E8F0">Building useful software with AI ⚡</text>
-<rect x="830" y="400" width="416" height="42" rx="21" fill="#111827" stroke="#334155"/>
-<text x="1038" y="427" text-anchor="middle" font-family="Consolas,monospace" font-size="14" fill="#94A3B8">open to collaborations &amp; opportunities</text>
 </svg>
