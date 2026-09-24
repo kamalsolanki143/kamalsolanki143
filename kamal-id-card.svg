@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 610" width="520" height="610" role="img" aria-label="Kamal Solanki developer card">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1020"/><stop offset="1" stop-color="#25104B"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="10" y="10" width="500" height="590" rx="30" fill="url(#bg)" stroke="url(#line)" stroke-width="2"/>
+<rect x="34" y="34" width="452" height="542" rx="24" fill="none" stroke="#334155"/>
+<text x="58" y="80" font-family="Consolas,monospace" font-size="14" fill="#22D3EE">KAMAL / DEVELOPER PROFILE</text>
+<circle cx="260" cy="200" r="105" fill="#111827" stroke="#8B5CF6" stroke-width="3" filter="url(#glow)"/>
+<image href="https://avatars.githubusercontent.com/u/213414495?v=4" x="160" y="100" width="200" height="200" preserveAspectRatio="xMidYMid slice"/>
+<text x="260" y="344" text-anchor="middle" font-family="Inter,Arial" font-size="30" font-weight="800" fill="#F8FAFC">Kamal Solanki</text>
+<text x="260" y="373" text-anchor="middle" font-family="Consolas,monospace" font-size="15" fill="#A78BFA">AI / SOFTWARE / DATA</text>
+<line x1="76" y1="402" x2="444" y2="402" stroke="#334155"/>
+<text x="76" y="438" font-family="Consolas,monospace" font-size="14" fill="#94A3B8">EDUCATION</text>
+<text x="76" y="462" font-family="Inter,Arial" font-size="16" fill="#E2E8F0">IIT Madras · BS Data Science</text>
+<text x="76" y="500" font-family="Consolas,monospace" font-size="14" fill="#94A3B8">FOCUS</text>
+<text x="76" y="524" font-family="Inter,Arial" font-size="15" fill="#CBD5E1">LLMs · Agents · Backend · AI Products</text>
+<text x="76" y="556" font-family="Consolas,monospace" font-size="13" fill="#22D3EE">OPEN_TO_BUILD</text>
+<circle cx="194" cy="551" r="5" fill="#22C55E"/>
+</svg>
