@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./kamal-banner.svg?v=3">
   <source media="(prefers-color-scheme: light)" srcset="./kamal-banner.svg?v=3">
-  <img src="./kamal-banner.svg?v=3" alt="Kamal Solanki - AI Engineer" width="100%"/>
+  <img src="./kamal-banner.svg?v=4" alt="Kamal Solanki - AI Engineer" width="100%"/>
 </picture>
 
 <br/>
@@ -30,7 +30,7 @@
 <table>
 <tr>
 <td width="38%" align="center" valign="middle">
-<img src="./kamal-id-card.svg?v=3" width="100%" alt="Kamal Solanki developer card"/>
+<img src="./kamal-id-card.svg?v=4" width="100%" alt="Kamal Solanki developer card"/>
 </td>
 <td width="62%" valign="middle">
 
@@ -120,18 +120,14 @@ AI-assisted transaction analysis and fraud-risk decision support.
 </td>
 <td width="50%" valign="top">
 
-### 📄 SmartApply AI
-**AI Resume + Job Description Analyzer**
+### 🧠 Sentinel AI
+**Crime Intelligence & Decision Operating System**
 
-Resume parsing, job matching, skill-gap analysis and actionable recommendations.
+AI decision-support platform combining multi-agent intelligence, hotspot analysis, knowledge graphs and resource optimization.
 
-**Stack:** Python · Flask · Gemini API · JavaScript
+**Stack:** Python · FastAPI · LangGraph · Gemini · Neo4j · Next.js
 
-📑 Resume parsing  
-🎯 Job matching  
-📊 Skill gap analysis
-
-<a href="https://github.com/kamalsolanki143/SmartApply-AI">View project →</a>
+<a href="https://github.com/kamalsolanki143/sentinel-ai-datathon-2026">View project →</a>
 
 </td>
 </tr>
@@ -139,22 +135,26 @@ Resume parsing, job matching, skill-gap analysis and actionable recommendations.
 <tr>
 <td width="50%" valign="top">
 
-### 🛣️ RoadRakshak AI
-**Technology for Safer Roads**
+### 🤖 SAARTHI AI
+**Agentic Banking Companion**
 
-AI and data-driven ideas for intelligent road-safety monitoring and decision support.
+Voice-first, multilingual banking companion with LangGraph workflows, guardrails, consent handling and human-in-the-loop transaction safety.
 
-<a href="https://github.com/kamalsolanki143/RoadRakshak-AI">View project →</a>
+**Stack:** Python · LangGraph · Sarvam AI · AI Agents
+
+<a href="https://github.com/kamalsolanki143/sbi-saarthi-ai">View project →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🩺 Med-Genie
-**AI Healthcare Application**
+### 🧾 QuoteFlow AI
+**RFQ → Quote Automation Agent**
 
-Exploring software experiences that make medical information easier to interact with.
+Converts RFQ documents into structured quotations using Gemini, inventory validation, quote generation and manager approval workflows.
 
-<a href="https://github.com/kamalsolanki143/med-genie">View project →</a>
+**Stack:** React · FastAPI · Python · Gemini
+
+<a href="https://github.com/kamalsolanki143/Quoteflow-AI">View project →</a>
 
 </td>
 </tr>
@@ -193,23 +193,14 @@ Exploring software experiences that make medical information easier to interact 
 
 <table>
 <tr>
-<td width="50%"><img src="./kamal-stats.svg?v=3" width="100%" alt="GitHub profile metrics"/></td>
-<td width="50%"><img src="./kamal-langs.svg?v=3" width="100%" alt="Core technology stack"/></td>
+<td width="50%"><img src="./kamal-stats.svg?v=4" width="100%" alt="Kamal profile snapshot"/></td>
+<td width="50%"><img src="./kamal-langs.svg?v=4" width="100%" alt="Kamal core stack"/></td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kamalsolanki143&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=14" height="180" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalsolanki143&theme=tokyonight&hide_border=true&border_radius=14" height="180" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalsolanki143&bg_color=0f172a&color=cbd5e1&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution graph"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake"/>
+<img src="./kamal-trophies.svg?v=4" width="95%" alt="Kamal achievements"/>
 
 </div>
 
@@ -219,7 +210,7 @@ Exploring software experiences that make medical information easier to interact 
 
 ## 🏆 ACHIEVEMENTS
 
-<img src="./kamal-trophies.svg?v=3" width="95%" alt="Kamal Solanki achievements"/>
+<img src="./kamal-trophies.svg?v=4" width="95%" alt="Kamal Solanki achievements"/>
 
 </div>
 
