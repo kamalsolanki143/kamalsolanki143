@@ -65,6 +65,29 @@ My workflow:
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### 🛍️ OmniStage AI
+**AI-Powered E-commerce Product Media Generation Platform**
+
+“One Product Photo. Every Color. Every Format. Every Channel.”
+
+Turns a single product image into brand-aware colorways, scenes and multi-channel assets. The workflow combines AI product understanding, Brand DNA, detail preservation, multi-format generation and a Cloudinary-powered media pipeline.
+
+**Stack:** Next.js · React · TypeScript · FastAPI · Python · Firebase · Gemini · Cloudinary · Netlify · Render
+
+🎨 Colorway generation  
+🧬 Brand-aware generation  
+📐 1:1 · 4:5 · 9:16 · 16:9  
+☁️ Cloudinary upload · transformation · optimization · CDN  
+🖼️ Asset Gallery + generation pipeline
+
+<a href="https://github.com/HackIndiaXYZ/pixels-to-products-cloudinary-ai-hackathon-2026-compass-crew">Repository →</a> · <a href="https://omnistage-ai.netlify.app/">Live demo →</a>
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🏥 VitalFlow AI
@@ -180,7 +203,7 @@ Converts RFQ documents into structured quotations using Gemini, inventory valida
 
 ### ☁️ Platforms & Tools
 
-<img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,vscode,vercel,figma&perline=7" alt="Platforms and tools"/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,vscode,vercel,figma,netlify&perline=8" alt="Platforms and tools"/>
 
 <br/><br/>
 
