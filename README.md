@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://kamal-solanki-portfolio-914001998174.asia-southeast1.run.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://kamalsolanki.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/kamal-solanki-612ba5369"><img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:solankikamal55143@gmail.com"><img src="https://img.shields.io/badge/📩%20Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
 <a href="https://github.com/kamalsolanki143?tab=repositories"><img src="https://img.shields.io/badge/💻%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
