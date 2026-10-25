@@ -34,7 +34,7 @@
 </td>
 <td width="62%" valign="middle">
 
-### 👋 Hey, I'm Kamal
+### 👋 Hey, I'm Kamal Solanki
 
 I'm an **IIT Madras BS student in Data Science & Applications** and an AI-focused software builder.
 
